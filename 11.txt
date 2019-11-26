@@ -1,2 +1,5 @@
-sdaadasdfdd
-sdsadad
+clone
+status
+add
+commit
+push
